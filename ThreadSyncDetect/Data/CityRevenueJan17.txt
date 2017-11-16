@@ -1,0 +1,6 @@
+Delhi	Saket	Radio	12-01-2017	580
+Delhi	Karol Bagh	TV	13-01-2017	1480
+Delhi	Karol Bagh	Radio	13-01-2017	960
+Mumbai	Marina	Radio	12-01-2017	560
+Delhi	Saket	Radio	12-01-2017	580
+Delhi	Saket	Radio	12-01-2017	580
